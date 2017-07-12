@@ -7,6 +7,8 @@ for(int i=1; i<=n; i++){
 
 	res += i;
 }
+
+printf("hahahahaha");
 return res;
 
 }
